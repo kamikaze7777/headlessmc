@@ -1,4 +1,4 @@
-<!--suppress HtmlDeprecatedAttribute -->
+<!--suppress HtmlDeprecatedAttribute --> 
 <div align="right">
   <a href="https://github.com/xiaofanforfabric/headlessmc">中文</a> | English
 </div>
